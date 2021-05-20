@@ -7,3 +7,6 @@ Displays the weather forecast of any location across the world.
 It also enables us to get the current location weather details.
 Provides details about the temperature, wind speed and humidity.
 Also provides the details for the searched city, once clicked on it.
+
+Screenshot -
+![screenshot-aditya-sarawat github io-2021 05 20-22_35_43](https://user-images.githubusercontent.com/54805791/119020689-29ba5680-b9bc-11eb-8b62-00818c5c99f5.png)
