@@ -9,4 +9,4 @@ Provides details about the temperature, wind speed and humidity.
 Also provides the details for the searched city, once clicked on it.
 
 Screenshot -
-![screenshot-aditya-sarawat github io-2021 05 20-22_35_43](https://user-images.githubusercontent.com/54805791/119020689-29ba5680-b9bc-11eb-8b62-00818c5c99f5.png)
+![screenshot-aditya-sarawat github io-2021 05 20-22_35_43 (1)](https://user-images.githubusercontent.com/54805791/119021351-f4facf00-b9bc-11eb-87fe-0b334d5a625a.png)
